@@ -10,3 +10,5 @@ var kAuthorTextStyle = TextStyle(
     color: Colors.white.withOpacity(0.5),
     fontWeight: FontWeight.normal,
     fontStyle: FontStyle.italic);
+
+var accessKey = '';
